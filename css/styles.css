@@ -1,5 +1,5 @@
 body {
-  background: #000;
+
   text-align: center;
   font-family: Arial;
   color: blue;
@@ -36,23 +36,15 @@ margin: 0 auto;
 
 }
 
-<<<<<<< HEAD
-#cabecera #logo 
+#logo 
 {
-	width: 20px;
-	vertical-align: middle;
+  width: 20px;
 }
 
-#post 
-{
-	background: #fff;
-	
-=======
 #footer 
 {
 	background: gray;
 	color: white;
 	text-align: center;
 	padding: 0.5em;
->>>>>>> footer
 }
