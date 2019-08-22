@@ -36,6 +36,7 @@ margin: 0 auto;
 
 }
 
+<<<<<<< HEAD
 #cabecera #logo 
 {
 	width: 20px;
@@ -46,4 +47,12 @@ margin: 0 auto;
 {
 	background: #fff;
 	
+=======
+#footer 
+{
+	background: gray;
+	color: white;
+	text-align: center;
+	padding: 0.5em;
+>>>>>>> footer
 }
